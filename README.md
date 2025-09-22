@@ -1,4 +1,4 @@
-# Hello! Eu sou o Guthierry Sousa 💻
+# Olá! Eu sou o Guthierry Sousa 💻
 
 - Tenho 18 anos e sou natural do Ceará. Atualmente cursando Ciência da Computação (2º semestre) no IFCE.
 - Sempre em busca de novos conhecimentos. 
@@ -6,7 +6,6 @@
 ## Atualmente, foco em aprimorar minhas habilidades em:
 - Python 🐍
 - SQL 📊
-- SystemVerilog ⚡
 - RNAs 👨‍💻
 - Data Science 🎲
 
