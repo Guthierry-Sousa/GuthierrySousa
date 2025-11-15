@@ -1,20 +1,6 @@
-# Olá! Eu sou o Guthierry Sousa 💻
+# Olá! Me chamo Guthierry Sousa 💻
 
-- Tenho 18 anos e sou natural do Ceará. Atualmente cursando Ciência da Computação (2º semestre) no IFCE.
-- Sempre em busca de novos conhecimentos. 
-
-## Atualmente, foco em aprimorar minhas habilidades em:
-- Python 🐍
-- SQL 📊
-- RNAs 👨‍💻
-- Data Science 🎲
-
-## Tenho grande interesse e conhecimento em:
-- Inteligência Artificial (IA) 
-- Machine Learning (ML) 
-- Large Language Models (LLMs) 
-- Redes Neurais : Perceptron, Adaline, Multilayers.
-
+## Sou estudante de Ciência da Computação com foco em Inteligência Artificial, Ciência de Dados e Machine Learning. Dedico-me ao estudo aprofundado de matemática aplicada, incluindo álgebra linear, cálculo e estatística, como base teórica para modelagem, análise e desenvolvimento de algoritmos de aprendizado de máquina.
 
 ## Conecte-se comigo! 
 - Email: franciscoguthierry750@gmail.com 📧
